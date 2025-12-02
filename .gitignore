@@ -1,0 +1,10 @@
+.env
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
+*.log
+.DS_Store
